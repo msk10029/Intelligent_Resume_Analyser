@@ -1,0 +1,12 @@
+streamlit==1.27.2         # For the web interface
+transformers==4.35.0      # Hugging Face transformers for NLP tasks
+spacy==3.7.3              # For NLP processing (e.g., keyword extraction)
+pdfplumber==0.9.0         # For parsing PDF resumes
+PyPDF2==3.0.1             # Alternative PDF parsing library
+pyyaml==6.0               # For configuration file handling
+fpdf==1.7.2               
+pytest==7.4.0             
+pytest-mock==3.11.0       
+pandas==2.1.1             
+numpy==1.26.0             
+openAI
