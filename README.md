@@ -20,8 +20,8 @@ The **Intelligent Resume Analyzer** is an AI-powered tool that compares resumes 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/intelligent-resume-analyzer.git
-   cd intelligent-resume-analyzer
+   git clone https://github.com/msk10029/Intelligent_Resume_Analyser.git
+   cd Intelligent_Resume_Analyser
    ```
 
 2. Install the required dependencies:
